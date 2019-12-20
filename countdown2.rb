@@ -6,6 +6,6 @@ def countdown_with_sleep
   end
 end
 
-sleep 1
+sleep 5
 
 puts "HAPPY NEW YEAR!"
