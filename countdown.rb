@@ -2,9 +2,8 @@
 
 def countdown
   number = 0
-  while number > 0
+  while number -= 10
     puts "#{number} seconds!"
-    number -= 10
   end
 end
 
